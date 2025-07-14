@@ -15,7 +15,7 @@ A CPU project using the RISC-V instruction set (RV32I)
 - [ ] `Program Counter`
 - [ ] `Register File`
 - [x] `Control Components`
-- [ ] `Data Extenting`
+- [x] `Data Extenting`
 - [ ] `Data Cutting`
 - [ ] `Multiplexer`
 - [ ] `Overview`
